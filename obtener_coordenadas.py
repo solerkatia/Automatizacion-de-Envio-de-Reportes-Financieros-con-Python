@@ -1,6 +1,7 @@
 import time
 import pyautogui
 import webbrowser
+
 webbrowser.open("https://www.gmail.com")
 print(
     "👉 Tienes 5 segundos para mover el mouse exactamente encima del botón 'Redactar' de Gmail..."

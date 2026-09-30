@@ -76,6 +76,7 @@ No muevas el mouse ni el teclado mientras el script abre el navegador, procesa l
 Mantén tu ventana de Gmail maximizada o en la misma posición donde realizaste la calibración de coordenadas.
 
 Puedes comentar o descomentar la línea de envío automático en el código (pyautogui.hotkey('ctrl', 'enter')) según prefieras revisar el correo antes de que se envíe
+
 ---
 
 ## 👤 Autor
